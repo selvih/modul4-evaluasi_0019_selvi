@@ -1,0 +1,13 @@
+nama:selvi
+nim:13020210019
+package com.mycompany.modul4evaluasi;
+
+/**
+ *
+ * @author ASUS
+ */
+public class PersegiPanjang extends BangunDatar {
+    float panjang;
+    float lebar;
+    
+}

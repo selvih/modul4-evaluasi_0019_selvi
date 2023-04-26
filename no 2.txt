@@ -1,0 +1,22 @@
+nama:selvi 
+nim:13020210019
+package com.mycompany.modul4evaluasi;
+
+
+/**
+ *
+ * @author ASUS
+ */
+public class BangunDatar {
+    float luas(){
+        System.out.println("Menghitung laus bangun datar");
+        return 0;
+    }
+    
+    float keliling(){
+        System.out.println("Menghitung keliling bangun datar");
+        return 0;
+    }
+    
+    
+}
